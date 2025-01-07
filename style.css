@@ -171,11 +171,15 @@ blockquote {
 /* Footer */
 footer {
     background: linear-gradient(135deg, #8e44ad, #2980b9);
-    color: white;
+    color: #fff;
     text-align: center;
     padding: 20px;
     border-radius: 12px;
     margin-top: 40px;
+}
+
+#contact h2 {
+    color: #ff5733; /* Change to your desired color */
 }
 
 footer h2 {
