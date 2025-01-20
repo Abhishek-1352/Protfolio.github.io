@@ -47,7 +47,7 @@ Here's a glimpse of my work:
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECSC205</dd>
 <dt>Name</dt>
 <dd>Abhishek</dd>
 <dt>SRN</dt>
